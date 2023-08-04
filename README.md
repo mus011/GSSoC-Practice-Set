@@ -15,3 +15,6 @@ Learning GitHub involves understanding version control concepts and getting fami
 
     Create a Repository:
     A repository (or repo) is where your project's code and files will be stored. On GitHub, you can create a new repository by clicking on the "New" button on the main page after logging in.
+
+    Clone a Repository:
+    Once you have a repository, you can "clone" it to your local machine. Cloning means downloading the repository to your computer so you can work on it locally. You can find the clone URL on the repository page and use the git clone         command in your terminal or Git GUI client.
