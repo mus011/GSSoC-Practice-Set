@@ -18,3 +18,9 @@ Learning GitHub involves understanding version control concepts and getting fami
 
     Clone a Repository:
     Once you have a repository, you can "clone" it to your local machine. Cloning means downloading the repository to your computer so you can work on it locally. You can find the clone URL on the repository page and use the git clone         command in your terminal or Git GUI client.
+
+    Learn Basic Git Commands:
+    Familiarize yourself with some basic Git commands such as git add, git commit, git push, git pull, and git status. These commands are essential for managing your code changes.
+
+    Create Branches:
+    Branches allow you to work on different features or bug fixes in isolation. Learn how to create and switch between branches using commands like git branch and git checkout.
